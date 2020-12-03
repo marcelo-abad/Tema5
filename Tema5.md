@@ -14,6 +14,8 @@
 
 
 Se modifica el codigo de cadenas de Markov para encontrar las probabilidades de transicion y permanencia de estados en la teoria de colas con los elementos en fila sujeto a la relacion de entrada y salida.
+En la siguiente imagen podemos observar que con los cambios aplicados se logra con los valores dados el sistema cumpla con las especificaciones de cola.
 
 
+![Colas](cumple.png)
 
